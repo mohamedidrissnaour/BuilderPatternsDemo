@@ -26,6 +26,8 @@ namespace backend.Builders
                 .SetPrice(3499)
                 .Build();
         }
+        
+        
         // methode pour construire un pc de devloppeur
         public Computer ConstructDeveloperPC()
         {
